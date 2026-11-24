@@ -1,0 +1,15 @@
+name: baltic-ice-atlas
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - copernicusmarine=2.5.1
+  - dask
+  - xarray
+  - numpy
+  - pandas
+  - matplotlib
+  - cartopy
+  - scipy
+  - jupyterlab
+  - ipykernel

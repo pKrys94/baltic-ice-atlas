@@ -1,0 +1,5 @@
+metric,era,first_winter,last_winter,n_winters,theil_sen_slope_per_decade,units_per_decade
+mean_sampled_extent_15_km2,weekly,1980,2005,26,-2.8373040177658804,thousand km^2/decade
+mean_ice_thickness_cm,weekly,1980,2005,26,-2.5897723039072917,cm/decade
+mean_sampled_extent_15_km2,daily,2006,2024,19,-6.946808018871349,thousand km^2/decade
+mean_ice_thickness_cm,daily,2006,2024,19,-0.11904859967506938,cm/decade
